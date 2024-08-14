@@ -365,6 +365,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a1-what-is-git/"/>
     </url>
     <url>
+        <loc>Noneresource/software/Git/a2-getting-started-with-git/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a2-getting-started-with-git/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a2-getting-started-with-git/"/>
+    </url>
+    <url>
         <loc>Noneresource/software/Git/a3-creating-your-first-git-repository/</loc>
         <lastmod>2024-08-14</lastmod>
         <changefreq>daily</changefreq>
@@ -902,6 +909,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a1-what-is-git/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a1-what-is-git/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/a2-getting-started-with-git/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a2-getting-started-with-git/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a2-getting-started-with-git/"/>
     </url>
     <url>
         <loc>Noneen/resource/software/Git/a3-creating-your-first-git-repository/</loc>
