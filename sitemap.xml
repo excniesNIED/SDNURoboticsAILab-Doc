@@ -407,18 +407,158 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a7-how-to-manage-binary-blobs-with-git/"/>
     </url>
     <url>
-        <loc>Noneresource/software/Git/b1-getting-started-with-github/</loc>
+        <loc>Noneresource/software/Git/b1-learn-git-3-commands-to-level-up-your-skill/</loc>
         <lastmod>2024-08-14</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b1-getting-started-with-github/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b1-getting-started-with-github/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b1-learn-git-3-commands-to-level-up-your-skill/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b1-learn-git-3-commands-to-level-up-your-skill/"/>
     </url>
     <url>
-        <loc>Noneresource/software/Git/b2-getting-started-with-git-terminology/</loc>
+        <loc>Noneresource/software/Git/b2-git-rebase-tutorial-going-back-in-time-with-git-rebase/</loc>
         <lastmod>2024-08-14</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b2-getting-started-with-git-terminology/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b2-getting-started-with-git-terminology/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b2-git-rebase-tutorial-going-back-in-time-with-git-rebase/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b2-git-rebase-tutorial-going-back-in-time-with-git-rebase/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/b3-a-guide-to-git-branching/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b3-a-guide-to-git-branching/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b3-a-guide-to-git-branching/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/b6-10-resources-to-boost-your-git-skills/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b6-10-resources-to-boost-your-git-skills/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b6-10-resources-to-boost-your-git-skills/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/b8-how-git-cherry-pick-and-revert-use-3-way-merge/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b8-how-git-cherry-pick-and-revert-use-3-way-merge/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b8-how-git-cherry-pick-and-revert-use-3-way-merge/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/b8-how-to-rename-a-branch-delete-a-branch-and-find-the-author-of-a-branch-in-git/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b8-how-to-rename-a-branch-delete-a-branch-and-find-the-author-of-a-branch-in-git/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b8-how-to-rename-a-branch-delete-a-branch-and-find-the-author-of-a-branch-in-git/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/c1-getting-started-with-git-terminology/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c1-getting-started-with-git-terminology/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c1-getting-started-with-git-terminology/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/c2-confusing-git-terminology/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c2-confusing-git-terminology/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c2-confusing-git-terminology/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/c3-tips-to-push-your-git-skills-to-the-next-level/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c3-tips-to-push-your-git-skills-to-the-next-level/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c3-tips-to-push-your-git-skills-to-the-next-level/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/c4-complete-beginners-to-pro-guide-for-git-commands/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c4-complete-beginners-to-pro-guide-for-git-commands/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c4-complete-beginners-to-pro-guide-for-git-commands/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/c5-6-best-practices-for-managing-git-repos/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c5-6-best-practices-for-managing-git-repos/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c5-6-best-practices-for-managing-git-repos/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/c6-6-best-practices-for-teams-using-git/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c6-6-best-practices-for-teams-using-git/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c6-6-best-practices-for-teams-using-git/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/c7-in-a-git-repository-where-do-your-files-live/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c7-in-a-git-repository-where-do-your-files-live/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c7-in-a-git-repository-where-do-your-files-live/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/d1-getting-started-with-github/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d1-getting-started-with-github/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d1-getting-started-with-github/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/d2-a-step-by-step-guide-to-git/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d2-a-step-by-step-guide-to-git/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d2-a-step-by-step-guide-to-git/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/d3-installing-and-using-git-and-github-on-ubuntu-linux-a-beginner-s-guide/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d3-installing-and-using-git-and-github-on-ubuntu-linux-a-beginner-s-guide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d3-installing-and-using-git-and-github-on-ubuntu-linux-a-beginner-s-guide/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/d4-how-to-clone-modify-add-and-delete-files-in-git/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d4-how-to-clone-modify-add-and-delete-files-in-git/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d4-how-to-clone-modify-add-and-delete-files-in-git/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/d5-12-cool-things-you-can-do-with-github/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d5-12-cool-things-you-can-do-with-github/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d5-12-cool-things-you-can-do-with-github/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/d5-reveal-your-source-code-with-jinja2-and-git/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d5-reveal-your-source-code-with-jinja2-and-git/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d5-reveal-your-source-code-with-jinja2-and-git/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/d6-dns-infrastructure-at-github/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d6-dns-infrastructure-at-github/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d6-dns-infrastructure-at-github/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/d7-6-places-to-host-your-git-repository/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d7-6-places-to-host-your-git-repository/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d7-6-places-to-host-your-git-repository/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/d8-run-a-server-with-git/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d8-run-a-server-with-git/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d8-run-a-server-with-git/"/>
     </url>
     <url>
         <loc>Noneresource/software/LaTeX/LaTeX_Introduction/</loc>
@@ -953,18 +1093,158 @@
         <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a7-how-to-manage-binary-blobs-with-git/"/>
     </url>
     <url>
-        <loc>Noneen/resource/software/Git/b1-getting-started-with-github/</loc>
+        <loc>Noneen/resource/software/Git/b1-learn-git-3-commands-to-level-up-your-skill/</loc>
         <lastmod>2024-08-14</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b1-getting-started-with-github/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b1-getting-started-with-github/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b1-learn-git-3-commands-to-level-up-your-skill/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b1-learn-git-3-commands-to-level-up-your-skill/"/>
     </url>
     <url>
-        <loc>Noneen/resource/software/Git/b2-getting-started-with-git-terminology/</loc>
+        <loc>Noneen/resource/software/Git/b2-git-rebase-tutorial-going-back-in-time-with-git-rebase/</loc>
         <lastmod>2024-08-14</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b2-getting-started-with-git-terminology/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b2-getting-started-with-git-terminology/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b2-git-rebase-tutorial-going-back-in-time-with-git-rebase/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b2-git-rebase-tutorial-going-back-in-time-with-git-rebase/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/b3-a-guide-to-git-branching/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b3-a-guide-to-git-branching/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b3-a-guide-to-git-branching/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/b6-10-resources-to-boost-your-git-skills/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b6-10-resources-to-boost-your-git-skills/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b6-10-resources-to-boost-your-git-skills/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/b8-how-git-cherry-pick-and-revert-use-3-way-merge/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b8-how-git-cherry-pick-and-revert-use-3-way-merge/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b8-how-git-cherry-pick-and-revert-use-3-way-merge/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/b8-how-to-rename-a-branch-delete-a-branch-and-find-the-author-of-a-branch-in-git/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b8-how-to-rename-a-branch-delete-a-branch-and-find-the-author-of-a-branch-in-git/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b8-how-to-rename-a-branch-delete-a-branch-and-find-the-author-of-a-branch-in-git/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/c1-getting-started-with-git-terminology/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c1-getting-started-with-git-terminology/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c1-getting-started-with-git-terminology/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/c2-confusing-git-terminology/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c2-confusing-git-terminology/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c2-confusing-git-terminology/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/c3-tips-to-push-your-git-skills-to-the-next-level/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c3-tips-to-push-your-git-skills-to-the-next-level/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c3-tips-to-push-your-git-skills-to-the-next-level/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/c4-complete-beginners-to-pro-guide-for-git-commands/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c4-complete-beginners-to-pro-guide-for-git-commands/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c4-complete-beginners-to-pro-guide-for-git-commands/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/c5-6-best-practices-for-managing-git-repos/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c5-6-best-practices-for-managing-git-repos/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c5-6-best-practices-for-managing-git-repos/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/c6-6-best-practices-for-teams-using-git/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c6-6-best-practices-for-teams-using-git/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c6-6-best-practices-for-teams-using-git/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/c7-in-a-git-repository-where-do-your-files-live/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/c7-in-a-git-repository-where-do-your-files-live/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/c7-in-a-git-repository-where-do-your-files-live/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/d1-getting-started-with-github/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d1-getting-started-with-github/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d1-getting-started-with-github/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/d2-a-step-by-step-guide-to-git/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d2-a-step-by-step-guide-to-git/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d2-a-step-by-step-guide-to-git/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/d3-installing-and-using-git-and-github-on-ubuntu-linux-a-beginner-s-guide/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d3-installing-and-using-git-and-github-on-ubuntu-linux-a-beginner-s-guide/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d3-installing-and-using-git-and-github-on-ubuntu-linux-a-beginner-s-guide/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/d4-how-to-clone-modify-add-and-delete-files-in-git/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d4-how-to-clone-modify-add-and-delete-files-in-git/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d4-how-to-clone-modify-add-and-delete-files-in-git/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/d5-12-cool-things-you-can-do-with-github/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d5-12-cool-things-you-can-do-with-github/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d5-12-cool-things-you-can-do-with-github/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/d5-reveal-your-source-code-with-jinja2-and-git/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d5-reveal-your-source-code-with-jinja2-and-git/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d5-reveal-your-source-code-with-jinja2-and-git/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/d6-dns-infrastructure-at-github/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d6-dns-infrastructure-at-github/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d6-dns-infrastructure-at-github/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/d7-6-places-to-host-your-git-repository/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d7-6-places-to-host-your-git-repository/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d7-6-places-to-host-your-git-repository/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/d8-run-a-server-with-git/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d8-run-a-server-with-git/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d8-run-a-server-with-git/"/>
     </url>
     <url>
         <loc>Noneen/resource/software/LaTeX/LaTeX_Introduction/</loc>
