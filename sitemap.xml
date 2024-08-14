@@ -358,6 +358,62 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/Git_Introduction/"/>
     </url>
     <url>
+        <loc>Noneresource/software/Git/a1-what-is-git/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a1-what-is-git/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a1-what-is-git/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/a3-creating-your-first-git-repository/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a3-creating-your-first-git-repository/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a3-creating-your-first-git-repository/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/a4-how-to-restore-older-file-versions-in-git/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a4-how-to-restore-older-file-versions-in-git/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a4-how-to-restore-older-file-versions-in-git/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/a5-3-graphical-tools-for-git/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a5-3-graphical-tools-for-git/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a5-3-graphical-tools-for-git/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/a6-how-to-build-your-own-git-server/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a6-how-to-build-your-own-git-server/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a6-how-to-build-your-own-git-server/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/a7-how-to-manage-binary-blobs-with-git/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a7-how-to-manage-binary-blobs-with-git/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a7-how-to-manage-binary-blobs-with-git/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/b1-getting-started-with-github/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b1-getting-started-with-github/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b1-getting-started-with-github/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/b2-getting-started-with-git-terminology/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b2-getting-started-with-git-terminology/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b2-getting-started-with-git-terminology/"/>
+    </url>
+    <url>
         <loc>Noneresource/software/LaTeX/LaTeX_Introduction/</loc>
         <lastmod>2024-08-14</lastmod>
         <changefreq>daily</changefreq>
@@ -839,6 +895,62 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/Git_Introduction/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/Git_Introduction/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/a1-what-is-git/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a1-what-is-git/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a1-what-is-git/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/a3-creating-your-first-git-repository/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a3-creating-your-first-git-repository/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a3-creating-your-first-git-repository/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/a4-how-to-restore-older-file-versions-in-git/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a4-how-to-restore-older-file-versions-in-git/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a4-how-to-restore-older-file-versions-in-git/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/a5-3-graphical-tools-for-git/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a5-3-graphical-tools-for-git/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a5-3-graphical-tools-for-git/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/a6-how-to-build-your-own-git-server/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a6-how-to-build-your-own-git-server/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a6-how-to-build-your-own-git-server/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/a7-how-to-manage-binary-blobs-with-git/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/a7-how-to-manage-binary-blobs-with-git/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/a7-how-to-manage-binary-blobs-with-git/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/b1-getting-started-with-github/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b1-getting-started-with-github/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b1-getting-started-with-github/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/b2-getting-started-with-git-terminology/</loc>
+        <lastmod>2024-08-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/b2-getting-started-with-git-terminology/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/b2-getting-started-with-git-terminology/"/>
     </url>
     <url>
         <loc>Noneen/resource/software/LaTeX/LaTeX_Introduction/</loc>
