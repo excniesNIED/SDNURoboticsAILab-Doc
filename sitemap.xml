@@ -561,6 +561,20 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d8-run-a-server-with-git/"/>
     </url>
     <url>
+        <loc>Noneresource/software/Git/e1-git-cheat-sheet/</loc>
+        <lastmod>2024-08-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/e1-git-cheat-sheet/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/e1-git-cheat-sheet/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Git/e2-github-cheat-sheet/</loc>
+        <lastmod>2024-08-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/e2-github-cheat-sheet/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/e2-github-cheat-sheet/"/>
+    </url>
+    <url>
         <loc>Noneresource/software/LaTeX/LaTeX_Introduction/</loc>
         <lastmod>2024-08-15</lastmod>
         <changefreq>daily</changefreq>
@@ -1245,6 +1259,20 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/d8-run-a-server-with-git/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/d8-run-a-server-with-git/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/e1-git-cheat-sheet/</loc>
+        <lastmod>2024-08-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/e1-git-cheat-sheet/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/e1-git-cheat-sheet/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/e2-github-cheat-sheet/</loc>
+        <lastmod>2024-08-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/e2-github-cheat-sheet/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/e2-github-cheat-sheet/"/>
     </url>
     <url>
         <loc>Noneen/resource/software/LaTeX/LaTeX_Introduction/</loc>
