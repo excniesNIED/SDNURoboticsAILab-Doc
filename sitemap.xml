@@ -575,6 +575,55 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/e2-github-cheat-sheet/"/>
     </url>
     <url>
+        <loc>Noneresource/software/LaTeX/01-LaTeX-Introduction/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/01-LaTeX-Introduction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/01-LaTeX-Introduction/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/LaTeX/02-LaTeX-setup/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/02-LaTeX-setup/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/02-LaTeX-setup/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/LaTeX/03-LaTex-text/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/03-LaTex-text/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/03-LaTex-text/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/LaTeX/04-Latex-formula-list/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/04-Latex-formula-list/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/04-Latex-formula-list/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/LaTeX/04-Latex-formula/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/04-Latex-formula/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/04-Latex-formula/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/LaTeX/05-LaTeX-doc/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/05-LaTeX-doc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/05-LaTeX-doc/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/LaTeX/06-LaTeX-style/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/06-LaTeX-style/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/06-LaTeX-style/"/>
+    </url>
+    <url>
         <loc>Noneresource/software/LaTeX/LaTeX_Introduction/</loc>
         <lastmod>2024-08-17</lastmod>
         <changefreq>daily</changefreq>
@@ -1336,6 +1385,55 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/e2-github-cheat-sheet/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/e2-github-cheat-sheet/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/LaTeX/01-LaTeX-Introduction/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/01-LaTeX-Introduction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/01-LaTeX-Introduction/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/LaTeX/02-LaTeX-setup/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/02-LaTeX-setup/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/02-LaTeX-setup/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/LaTeX/03-LaTex-text/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/03-LaTex-text/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/03-LaTex-text/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/LaTeX/04-Latex-formula-list/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/04-Latex-formula-list/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/04-Latex-formula-list/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/LaTeX/04-Latex-formula/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/04-Latex-formula/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/04-Latex-formula/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/LaTeX/05-LaTeX-doc/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/05-LaTeX-doc/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/05-LaTeX-doc/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/LaTeX/06-LaTeX-style/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/06-LaTeX-style/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/06-LaTeX-style/"/>
     </url>
     <url>
         <loc>Noneen/resource/software/LaTeX/LaTeX_Introduction/</loc>
