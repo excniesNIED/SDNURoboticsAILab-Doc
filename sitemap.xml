@@ -582,6 +582,20 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/LaTeX_Introduction/"/>
     </url>
     <url>
+        <loc>Noneresource/software/Linux/10-useful-linux-command-line-tricks-for-newbies/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/10-useful-linux-command-line-tricks-for-newbies/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/10-useful-linux-command-line-tricks-for-newbies/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Linux/11-Linux-Terminal-Commands-That-Will-Rock-Your-World/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/11-Linux-Terminal-Commands-That-Will-Rock-Your-World/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/11-Linux-Terminal-Commands-That-Will-Rock-Your-World/"/>
+    </url>
+    <url>
         <loc>Noneresource/software/Linux/chapter-1-change-directories/</loc>
         <lastmod>2024-08-17</lastmod>
         <changefreq>daily</changefreq>
@@ -659,11 +673,25 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/getting-started-with-linux-terminal/"/>
     </url>
     <url>
+        <loc>Noneresource/software/Linux/linux-terminal-shortcuts/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/linux-terminal-shortcuts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/linux-terminal-shortcuts/"/>
+    </url>
+    <url>
         <loc>Noneresource/software/Linux/shell-bash-cmd-powershell/</loc>
         <lastmod>2024-08-17</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/shell-bash-cmd-powershell/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/shell-bash-cmd-powershell/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Linux/zsh-beautify/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/zsh-beautify/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/zsh-beautify/"/>
     </url>
     <url>
         <loc>Noneresource/software/Misc/Misc/</loc>
@@ -1289,6 +1317,20 @@
         <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/LaTeX_Introduction/"/>
     </url>
     <url>
+        <loc>Noneen/resource/software/Linux/10-useful-linux-command-line-tricks-for-newbies/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/10-useful-linux-command-line-tricks-for-newbies/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/10-useful-linux-command-line-tricks-for-newbies/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Linux/11-Linux-Terminal-Commands-That-Will-Rock-Your-World/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/11-Linux-Terminal-Commands-That-Will-Rock-Your-World/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/11-Linux-Terminal-Commands-That-Will-Rock-Your-World/"/>
+    </url>
+    <url>
         <loc>Noneen/resource/software/Linux/chapter-1-change-directories/</loc>
         <lastmod>2024-08-17</lastmod>
         <changefreq>daily</changefreq>
@@ -1366,11 +1408,25 @@
         <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/getting-started-with-linux-terminal/"/>
     </url>
     <url>
+        <loc>Noneen/resource/software/Linux/linux-terminal-shortcuts/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/linux-terminal-shortcuts/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/linux-terminal-shortcuts/"/>
+    </url>
+    <url>
         <loc>Noneen/resource/software/Linux/shell-bash-cmd-powershell/</loc>
         <lastmod>2024-08-17</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/shell-bash-cmd-powershell/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/shell-bash-cmd-powershell/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Linux/zsh-beautify/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/zsh-beautify/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/zsh-beautify/"/>
     </url>
     <url>
         <loc>Noneen/resource/software/Misc/Misc/</loc>
