@@ -596,6 +596,20 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/11-Linux-Terminal-Commands-That-Will-Rock-Your-World/"/>
     </url>
     <url>
+        <loc>Noneresource/software/Linux/20240724-effectively-use-history-command-in-linux/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/20240724-effectively-use-history-command-in-linux/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/20240724-effectively-use-history-command-in-linux/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Linux/20240730-copy-files-between-remote-systems-in-the-linux-command-line/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/20240730-copy-files-between-remote-systems-in-the-linux-command-line/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/20240730-copy-files-between-remote-systems-in-the-linux-command-line/"/>
+    </url>
+    <url>
         <loc>Noneresource/software/Linux/chapter-1-change-directories/</loc>
         <lastmod>2024-08-17</lastmod>
         <changefreq>daily</changefreq>
@@ -1329,6 +1343,20 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/11-Linux-Terminal-Commands-That-Will-Rock-Your-World/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/11-Linux-Terminal-Commands-That-Will-Rock-Your-World/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Linux/20240724-effectively-use-history-command-in-linux/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/20240724-effectively-use-history-command-in-linux/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/20240724-effectively-use-history-command-in-linux/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Linux/20240730-copy-files-between-remote-systems-in-the-linux-command-line/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/20240730-copy-files-between-remote-systems-in-the-linux-command-line/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/20240730-copy-files-between-remote-systems-in-the-linux-command-line/"/>
     </url>
     <url>
         <loc>Noneen/resource/software/Linux/chapter-1-change-directories/</loc>
