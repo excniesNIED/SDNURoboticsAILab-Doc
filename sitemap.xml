@@ -596,6 +596,20 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/11-Linux-Terminal-Commands-That-Will-Rock-Your-World/"/>
     </url>
     <url>
+        <loc>Noneresource/software/Linux/20240330-tailspin/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/20240330-tailspin/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/20240330-tailspin/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Linux/20240403-linux-alias/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/20240403-linux-alias/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/20240403-linux-alias/"/>
+    </url>
+    <url>
         <loc>Noneresource/software/Linux/20240724-effectively-use-history-command-in-linux/</loc>
         <lastmod>2024-08-17</lastmod>
         <changefreq>daily</changefreq>
@@ -1343,6 +1357,20 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/11-Linux-Terminal-Commands-That-Will-Rock-Your-World/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/11-Linux-Terminal-Commands-That-Will-Rock-Your-World/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Linux/20240330-tailspin/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/20240330-tailspin/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/20240330-tailspin/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Linux/20240403-linux-alias/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/20240403-linux-alias/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/20240403-linux-alias/"/>
     </url>
     <url>
         <loc>Noneen/resource/software/Linux/20240724-effectively-use-history-command-in-linux/</loc>
