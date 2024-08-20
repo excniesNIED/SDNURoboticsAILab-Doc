@@ -162,11 +162,11 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/memberStyle/Daily_Echos/2024/"/>
     </url>
     <url>
-        <loc>Noneothers/accept_news/</loc>
+        <loc>Noneothers/Sweepstakes/</loc>
         <lastmod>2024-08-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/accept_news/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/accept_news/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/Sweepstakes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/Sweepstakes/"/>
     </url>
     <url>
         <loc>Noneothers/htc/</loc>
@@ -181,6 +181,20 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/interesting/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/interesting/"/>
+    </url>
+    <url>
+        <loc>Noneothers/publicity/</loc>
+        <lastmod>2024-08-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/publicity/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/publicity/"/>
+    </url>
+    <url>
+        <loc>Noneothers/technical/</loc>
+        <lastmod>2024-08-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/technical/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/technical/"/>
     </url>
     <url>
         <loc>Noneresource/NAO/APIs/NAOqi_Audio/</loc>
@@ -1044,11 +1058,11 @@
         <xhtml:link rel="alternate" hreflang="zh" href="NonememberStyle/Daily_Echos/2024/"/>
     </url>
     <url>
-        <loc>Noneen/others/accept_news/</loc>
+        <loc>Noneen/others/Sweepstakes/</loc>
         <lastmod>2024-08-20</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/accept_news/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/accept_news/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/Sweepstakes/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/Sweepstakes/"/>
     </url>
     <url>
         <loc>Noneen/others/htc/</loc>
@@ -1063,6 +1077,20 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/interesting/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/interesting/"/>
+    </url>
+    <url>
+        <loc>Noneen/others/publicity/</loc>
+        <lastmod>2024-08-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/publicity/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/publicity/"/>
+    </url>
+    <url>
+        <loc>Noneen/others/technical/</loc>
+        <lastmod>2024-08-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/others/technical/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneothers/technical/"/>
     </url>
     <url>
         <loc>Noneen/resource/NAO/APIs/NAOqi_Audio/</loc>
