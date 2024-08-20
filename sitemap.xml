@@ -589,6 +589,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/e2-github-cheat-sheet/"/>
     </url>
     <url>
+        <loc>Noneresource/software/Git/e3-github-contribution/</loc>
+        <lastmod>2024-08-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/e3-github-contribution/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/e3-github-contribution/"/>
+    </url>
+    <url>
         <loc>Noneresource/software/LaTeX/01-LaTeX-Introduction/</loc>
         <lastmod>2024-08-20</lastmod>
         <changefreq>daily</changefreq>
@@ -1483,6 +1490,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/e2-github-cheat-sheet/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/e2-github-cheat-sheet/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Git/e3-github-contribution/</loc>
+        <lastmod>2024-08-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Git/e3-github-contribution/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Git/e3-github-contribution/"/>
     </url>
     <url>
         <loc>Noneen/resource/software/LaTeX/01-LaTeX-Introduction/</loc>
